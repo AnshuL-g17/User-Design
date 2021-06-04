@@ -1,0 +1,88 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>
+		Assignment 1
+	</title>
+<link rel="stylesheet" type="text/css" href="this.css.css">
+</head>
+<body>
+	<header >
+	<div class="container">
+	<div id="brand">
+		<h1><span class="highlight">Anshul</span> Gupta</h1>
+	</div>
+	<nav>
+		<ul >
+			<li class="current" ><a href="index.html">HOME</a></li>
+			<li ><a href="#about">ABOUT</a></li>
+			<li ><a href="#interests">INTERESTS</a></li>
+		</ul>
+    </nav>
+    </div>
+</header>
+<section id="showcase">
+	<div class="container">
+	<h1 ><i>BONJOUR!</i></h1>
+	<p >I think you have accidently! reached this page or you did by choice. Doesn't matter XD. Now that you are here let me tell you about my self. As you might have known from the heading my name is Anshul Gupta. If you want to know about me just scrolllll.  </p>
+    </div>
+</section>
+<section id="about">
+<img src="images\site.png" height="300px" width="400px" align="center" style="margin-left: 35%;margin-top: 0">
+	<div class="container">
+	<h3 >About Myself!</h3>
+	<p >I am persuing my higher education from Sheridan College, Oakville.<br>
+	I graduated my High School from Bawa Lalvani Public School which is situated in Punjab,India.<br>
+	As you already might have guessed that I am 18 as I just graduated from high school in 2020.<br>
+	I am born and raised in a small city in punjab called kapurthala and have persued my entire education till now from the same school. </p>
+    </div>
+</section>
+<section id="interests">
+	<div class="container">
+	<h3>So Now Lets Talk About My Interests!</h3>
+	<h5 >Sports!!!!!!</h5>
+	<p >I was into sports when I was a child. So its not like I was into soccer or basketball or any other thing particularly. It was like I wanted to be good at everything. So I started with cricket as my father already had some experience in the feild so I started with it. I started playing professionally for PBCA(Punjab Board Cricket Association). Then during my high school My swimmimg teacher wanted me to represent the school at state level competetions and so I did. But i also liked playing badminton and devoted some time to it and played the Zonal level Championship. I played Soccer for the school but I guess not much good for further competetion as didn't devoted much time to it. So that it about my sports XD. you must be thinking  Thats this guy hasn't left any kind of sport except for polo XD.</p>
+
+	<h5 >Singing!!</h5>
+	<p >Well even if my voice was bad XD. It didn't Stop me from singing. i really like to sing. Even if you won't ever hear me singing beacuse i don't sing in front of anyone. It's just a personal thingy. I do record sometime but will never expose it to anyone.</p>
+
+	<h5 >Movies!!</h5>
+	<p >I don't think there is anyone who dosen't like movies but the genre I like the most is Science Fiction Movies. By which no means comedy is not good, they are also great. Let me list some movies I like.</p>
+    </div>
+	<table border="10px" style="margin-bottom:10%" align="center" >
+	<tr >
+		<th width="60">Movies</th>
+		<th width="60">Year</th>
+		<th>Posters</th>
+	</tr>
+	<tr >
+		<td >Interstellar</td>
+		<td>2014</td>
+		<td><img src="images\interstellar.jfif" height="80" width="100"></td>
+	</tr>
+	<tr >
+		<td>Passengers</td>
+		<td>2016</td>
+		<td><img src="images\passengers.jfif" height="80" width="100"></td>
+	</tr>
+	<tr >
+		<td>Avengers</td>
+		<td>2019</td>
+		<td><img src="images\avengers.jfif" height="80" width="100"></td>
+	</tr>
+	<tr >
+		<td>Martian</td>
+		<td>2015</td>
+		<td><img src="images\martian.jfif" height="80" width="100"></td>
+	</tr>
+	</table>
+
+
+</section>
+<footer>
+	<p >So I hope you might have got a little bit idea about me. If you want to know more Just waittt!!!</p>
+</footer>
+
+</body>
+</html>

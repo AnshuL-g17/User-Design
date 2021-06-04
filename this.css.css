@@ -1,0 +1,158 @@
+body{
+	font:20px/1.5 arial;
+	padding: 0; 
+	margin:0;
+	background-image: url(images/background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}    
+
+.container{
+	width:80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+header ul{
+	padding:0;
+	margin: 0;
+	float: right;
+	list-style-type: upp
+
+}                      
+
+header{
+	background: #080808;
+	color: #ffffff;
+	padding-top:10px;
+    min-height: 70px;
+    border-bottom: #e8491d 5px solid;
+}
+
+header a{
+	color: #ffffff;
+	text-decoration:none;
+	text-transform: uppercase;
+	font-size: 16px;
+
+}                   
+
+
+header li{
+	float: left;
+	display: inline;
+	padding: 20px;
+}                                                                                                                                           
+
+header #brand{
+	float: left;
+}         
+
+header #brand h1{
+  margin: 0;
+  padding: 0;
+  font-size: 50px;
+
+}
+
+header nav{
+	float: right;
+	
+}
+
+header .highlight, header .current a{
+	color: #e8491d;
+	font-wieght:bold;
+}
+
+header a:hover{
+	color: #ffff00;
+}
+
+.page-title{
+	color: #e8491d;
+	text-align: center;
+	font-size: 30px;
+}
+
+#showcase{
+	margin-top: 180px;
+	margin-bottom: 160px;
+	min-height:400px;
+    text-align: center;
+	color: white; 
+}
+
+
+
+#showcase h1{
+	margin-top: 45px;
+	font-size: 50px;
+	margin-bottom: 20px;
+}
+
+#showcase p{
+	font-size: 25px;
+}
+
+#about{
+	margin-bottom: 100px;
+}
+
+#about .container{
+	width: 100%;
+	padding: 15px;
+	color: #ffffff;
+	background: #DAA520;
+	text-align: center;
+	border: #ffffff 10px solid;
+}
+
+#interests{
+	margin-top: 180px;
+	margin-bottom: 160px;
+	min-height:400px;
+    text-align: center;
+	color: white; 
+}
+
+#interests h5{
+	color:  #e8491d;
+	font-size: 30px;
+}
+
+#interests h3{
+	font-style: italic;
+	color: #DAA520;
+	font-size: 60px;
+}
+
+table{
+	margin-top: 90px;
+	width: 65%;
+	border-collapse: collapse;
+	border-spacing: 0;
+	color: white;
+
+}
+
+table thead th{
+	text-transform: uppercase;
+	padding: 0.8rem;
+}
+
+table tbody tr td{
+	color-rendering: #999;
+	padding: 0.8rem 1.2rem;
+	text-align: center;
+}
+
+footer{
+	border-top: #ffffff 10px solid;
+	padding: 20px;
+	margin-top: 20px;
+	color: #ffffff;
+	background: #e8491d;
+	text-align: center;
+}
